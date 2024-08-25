@@ -1,3 +1,3 @@
-* - Nama: Muhammad Nur Maulana
-* - Semester 5
-* - Asal: Jakarta Selatan
+*  Nama: Muhammad Nur Maulana
+*  Semester 5
+*  Asal: Jakarta Selatan
